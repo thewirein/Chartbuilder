@@ -43194,7 +43194,7 @@ var defaultProps = {
 		chartType: "chartgrid",
 		title: "",
 		source: "",
-		credit: "Made with Chartbuilder",
+		credit: "Made with Chartbuilder/TheWire",
 		size: "auto"
 	}
 };
@@ -44424,7 +44424,7 @@ var defaultProps = {
 		chartType: 'xy',
 		title: "",
 		source: "",
-		credit: "Made with Chartbuilder",
+		credit: "Made with Chartbuilder/TheWire",
 		size: "auto"
 	}
 };
